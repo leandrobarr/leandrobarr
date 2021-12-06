@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Front-End and Back-End Developer!
+:computer: I am a student of Java and Spring Boot microservices!
 
 :house_with_garden: I’m from Brazil.
 
