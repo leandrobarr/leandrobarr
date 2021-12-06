@@ -6,7 +6,7 @@
 
  
 
-:computer: I am a student of Java and Spring Boot microservices!
+:computer: I am a student of Java and Spring Boot!
 
 :house_with_garden: I’m from Brazil.
 
