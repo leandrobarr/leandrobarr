@@ -65,6 +65,7 @@
 
 
 
-- Thanks for visiting.
 
-- Enjoy it!! o
+- Thanks for visiting. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="30">
+
+
