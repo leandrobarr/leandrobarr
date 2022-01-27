@@ -65,6 +65,6 @@
 
 
 
-\- Thanks for visiting.
+- Thanks for visiting.
 
-\- Enjoy it!! o/
+- Enjoy it!! o
