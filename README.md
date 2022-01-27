@@ -1,5 +1,7 @@
 ## I'm LEANDRO!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
+ <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
  :computer: I'm an eternal student of front-end/back-end development!
 
 :house_with_garden: I’m from Brazil.
