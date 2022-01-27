@@ -14,8 +14,8 @@
 
 ## Languages and Tools:
 
-[![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr&show_icons=true&theme=tokyonight)](https://github.com/leandrobarr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobarr&layout-compact&show_icons=true&theme=tokyonight)](https://github.com/leandrobarr/github-readme-stats)
+[![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr&show_icons=true&theme=cobalt)](https://github.com/leandrobarr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobarr&layout-compact&show_icons=true&theme=cobalt)](https://github.com/leandrobarr/github-readme-stats)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
