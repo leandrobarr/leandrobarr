@@ -13,8 +13,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-de-barros-b3315323 )]( https://www.linkedin.com/in/leandro-de-barros-b3315323)
 
 ## Languages and Tools:
-[![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr&show_icons=true&theme=merko)](https://github.com/leandrobarr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobarr&layout-compact&show_icons=true&theme=merko)](https://github.com/leandrobarr/github-readme-stats)
+[![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr&show_icons=true&theme=gruvbox)](https://github.com/leandrobarr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobarr&layout-compact&show_icons=true&theme=gruvbox)](https://github.com/leandrobarr/github-readme-stats)
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
