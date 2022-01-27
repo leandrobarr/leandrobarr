@@ -15,6 +15,9 @@
 
 ## Languages and Tools:
 
+[![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr)](https://github.com/leandrobarr/github-readme-stats)
+[![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr)](https://github.com/leandrobarr/github-readme-stats)
+
 
 
 
