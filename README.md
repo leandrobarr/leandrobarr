@@ -62,10 +62,8 @@
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+##
 
-
-
-
-- Thanks for visiting. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="30">
+- Thanks for visiting. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="60">
 
 
