@@ -18,6 +18,10 @@
 [![leandrobarr GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobarr&show_icons=true&theme=tokyonight)](https://github.com/leandrobarr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobarr&layout-compact&show_icons=true&theme=tokyonight)](https://github.com/leandrobarr/github-readme-stats)
 
+## IDE:
+
+![image]({https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white})
+
 
 
 
