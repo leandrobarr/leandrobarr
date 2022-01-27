@@ -20,7 +20,7 @@
 
 ## IDE:
 
-![image]({https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white})
+![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
 
 
